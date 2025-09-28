@@ -1,10 +1,9 @@
 package Day3.constructor;
-
 import java.util.Scanner;
 
 public class Constructor {
-	public static void main(String args[])
-	{
+	
+	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		String name, city;
 		int id;
@@ -42,6 +41,8 @@ public class Constructor {
 		
 		sc.close();
 		
+		
+
 
 	}
 
