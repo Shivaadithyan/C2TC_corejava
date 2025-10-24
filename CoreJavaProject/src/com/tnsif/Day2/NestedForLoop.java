@@ -1,4 +1,4 @@
-package Day2;
+package com.tnsif.Day2;
 
 public class NestedForLoop {
 	public static void main(String[] args) {
