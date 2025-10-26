@@ -1,0 +1,16 @@
+package com.tnsif.Day3.encapsulation;
+
+public class Encapsulation {
+public static void main(String[] args) {
+		
+		//object creation 
+		OopsConcept obj = new OopsConcept();
+		obj.setSerialNum(101);
+		obj.setName("Dharshini");
+		obj.setAge(20);
+		System.out.println(obj);
+		
+	}
+
+
+}
