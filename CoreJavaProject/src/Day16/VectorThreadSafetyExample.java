@@ -1,4 +1,4 @@
-package com.tnsif.Day16;
+package Day16;
 
 import java.util.Vector;
 

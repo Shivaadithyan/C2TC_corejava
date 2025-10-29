@@ -1,4 +1,4 @@
-package com.tnsif.Day16.queue;
+package Day16.queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
