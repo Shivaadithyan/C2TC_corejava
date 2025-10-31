@@ -11,7 +11,7 @@ public class EmployeeService {
 	static ResultSet rs;
 	
 	static {
-		con=com.tnsif.daytwentytwo.v1.usingpreparedstatement.DBUtil.getCn();
+		con=com.tnsif.Day22.v1.usingpreparedstatement.DBUtil.getCn();
 		try {
 			st=con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_UPDATABLE);
 			rs=st.executeQuery("SELECT * FROM employee");
